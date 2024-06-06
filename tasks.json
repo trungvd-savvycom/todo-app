@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1717663544900,
+    "title": "Focus on work projects and deadlines",
+    "description": "Focus on work projects and deadlines",
+    "createdAt": 1654425427000,
+    "status": "in-progress",
+    "image": "https://source.unsplash.com/random/320x200?work"
+  },
+  {
+    "id": 1717663544901,
+    "title": "Explore the outdoors (hike, bike ride, etc.)",
+    "description": "Explore the outdoors",
+    "createdAt": 1654425427000,
+    "status": "in-progress",
+    "image": "https://source.unsplash.com/random/320x200?hike"
+  },
+  {
+    "id": 171766354402,
+    "title": "Explore a new destination (virtually for now)",
+    "description": "Explore a new destination",
+    "createdAt": 1654425427000,
+    "status": "completed",
+    "image": "https://source.unsplash.com/random/320x200?virtual"
+  },
+  {
+    "id": 1717663544903,
+    "title": "Explore the outdoors (hike, bike ride, etc.)",
+    "description": "Explore the outdoors",
+    "createdAt": 1654425427000,
+    "status": "todo",
+    "image": "https://source.unsplash.com/random/320x200?outdoor"
+  },
+  {
+    "id": 1717663544904,
+    "title": "Focus on work projects and deadlines",
+    "description": "Focus on work projects and deadlines",
+    "createdAt": 1654425427000,
+    "status": "todo",
+    "image": "https://source.unsplash.com/random/320x200?study"
+  },
+  {
+    "id": 1717663544905,
+    "title": "Explore a new destination (virtually for now)",
+    "description": "Explore a new destination",
+    "createdAt": 1654425427000,
+    "status": "todo",
+    "image": "https://source.unsplash.com/random/320x200?relaxing"
+  },
+  {
+    "id": 1717663544906,
+    "title": "Relax and de-stress",
+    "description": "Relax and de-stress",
+    "createdAt": 1654425427000,
+    "status": "in-progress",
+    "image": "https://source.unsplash.com/random/320x200?relaxing"
+  },
+  {
+    "id": 1717663544907,
+    "title": "Maintain your fitness routine with a gym session",
+    "description": "Maintain your fitness routine with a gym session",
+    "createdAt": 1654425427000,
+    "status": "todo",
+    "image": "https://source.unsplash.com/random/320x200?gym"
+  },
+  {
+    "id": 1717663544908,
+    "title": "Relax and de-stress",
+    "description": "Relax and de-stress",
+    "createdAt": 1654425427000,
+    "status": "todo",
+    "image": "https://source.unsplash.com/random/320x200?travel"
+  },
+  {
+    "id": 1717663544909,
+    "title": "Prepare a tasty dish",
+    "description": "Prepare a tasty dish",
+    "createdAt": 1654425427000,
+    "status": "todo",
+    "image": "https://source.unsplash.com/random/320x200?food"
+  }
+]

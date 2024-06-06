@@ -1,0 +1,27 @@
+{
+  "name": "todo-list-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node --experimental-modules server.mjs",
+    "build": "npm run build:client && npm run build:server",
+    "build:client": "vite build --ssrManifest --outDir dist/client",
+    "build:server": "vite build --ssr src/entry-server.js --outDir dist/server",
+    "preview": "cross-env NODE_ENV=production node server.mjs"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue-jsx": "^4.0.0",
+    "@vue/server-renderer": "^3.4.27",
+    "axios": "^1.7.2",
+    "bootstrap": "5.0",
+    "express": "^4.19.2",
+    "vue": "^3.4.21",
+    "vue-router": "^4.0.13",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.2.0"
+  }
+}
